@@ -1,4 +1,4 @@
-Welcome Cheonyeon Lee VCMS Repository!!
+Welcome VCMS Project!!
 ===========
 
 What is VCMS?
