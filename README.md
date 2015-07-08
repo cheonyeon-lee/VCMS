@@ -1,1 +1,9 @@
-Welcome Cheonyeon Lee Version Control Management System Repository!!
+Welcome Cheonyeon Lee VCMS Repository!!
+===========
+
+What is VCMS?
+============
+*VCMX* is a ASP.NET MVC 5 Version Control Management Sysetm with NGitLab API.
+
+
+
